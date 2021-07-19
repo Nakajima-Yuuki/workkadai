@@ -9,3 +9,10 @@ font-size: larger;
 
 
 }
+
+dt {
+color:crimson;
+border: solid;
+width: 200px;
+margin-top: 10px;
+}
